@@ -1,0 +1,2 @@
+lock = noone;
+targetRoom = RoomEntrada;

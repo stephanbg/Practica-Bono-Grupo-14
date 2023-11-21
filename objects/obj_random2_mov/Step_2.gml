@@ -1,0 +1,1 @@
+sprite_index = asset_get_index("sprRand2" + action + face);

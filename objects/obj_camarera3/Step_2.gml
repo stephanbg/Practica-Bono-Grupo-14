@@ -1,0 +1,1 @@
+sprite_index = asset_get_index("sprCamarera3" + action + face);
