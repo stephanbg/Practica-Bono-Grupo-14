@@ -17,11 +17,11 @@
   "option_operagx_mod_team_id": "7bb17ad8-4949-46e6-9c1c-9a418611f1a5",
   "option_operagx_mod_team_name": "StephanBG studio",
   "option_operagx_mod_version": "1.0.1",
-  "option_operagx_next_version": "1.0.0.10",
+  "option_operagx_next_version": "1.0.0.12",
   "option_operagx_publicShareUrl": "",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "7bb17ad8-4949-46e6-9c1c-9a418611f1a5",
   "option_operagx_team_name": "StephanBG studio",
   "option_operagx_texture_page": "2048x2048",
-  "option_operagx_version": "1.0.0.9",
+  "option_operagx_version": "1.0.0.11",
 }

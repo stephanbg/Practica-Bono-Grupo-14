@@ -7,8 +7,8 @@ function scrHablarConserje() {
 			with (obj_conserje) {
 				event_user(1);
 			}
+			global.tengoLlave = true;
 		}
-		global.tengoLlave = true;
 	}
 	if (keyboard_check_pressed(vk_space) && (global.hablarConserje == false) &&
 		(speed == 0)) {

@@ -14,6 +14,7 @@
     {"name":"NPC","order":1,"path":"folders/Objetos/NPC.yy",},
     {"name":"Puertas","order":7,"path":"folders/Objetos/Puertas.yy",},
     {"name":"System","order":4,"path":"folders/Objetos/System.yy",},
+    {"name":"Tests","order":9,"path":"folders/Objetos/Tests.yy",},
     {"name":"UI","order":5,"path":"folders/Objetos/UI.yy",},
     {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
     {"name":"Rutas","order":3,"path":"folders/Rutas.yy",},
@@ -57,7 +58,6 @@
     {"name":"SalaCalculo","order":16,"path":"folders/Sprites/Salas/SalaCalculo.yy",},
     {"name":"Tests","order":11,"path":"folders/Sprites/Tests.yy",},
     {"name":"UI","order":7,"path":"folders/Sprites/UI.yy",},
-    {"name":"Tests","order":9,"path":"folders/Objetos/Tests.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_random_2","order":2,"path":"objects/obj_random_2/obj_random_2.yy",},
